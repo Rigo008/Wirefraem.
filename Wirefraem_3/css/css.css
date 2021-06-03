@@ -1,0 +1,42 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.etiqueta{
+    display: flex;
+    flex-direction: column;
+    padding: 20px;
+    width: 160px;
+    height: auto;
+    
+}
+.div_1{
+    width: 335px;
+    height: 600px;
+    background-color: #66CDAA;
+    border: 1px solid #66CDAA;
+    border-radius: 17px;
+    margin-top: 10px;
+   
+    
+}
+.div_2{
+    width: 55px;
+    height: 55px;
+    background-color: whitesmoke;
+    border: 1px solid whitesmoke;
+    border-radius: 30px;
+    margin:auto;
+    margin-top: -550px;
+    
+}
+.div_3{
+    width: 280px;
+    height: 50px;
+    background-color: whitesmoke;
+    border: 1px solid whitesmoke;
+    border-radius: 15px;
+    margin: 27px;
+    margin-top: 400;
+    

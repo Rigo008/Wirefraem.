@@ -3,87 +3,92 @@
     padding: 0;
     box-sizing: border-box;
 }
+
+html{
+    font-size: 62.5%;
+}
+
 .etiqueta{
     display: flex;
     flex-direction: column;
-    padding: 60px;
-    width: 510px;
+    padding: 6rem;
+    width: 51rem;
     height: auto;
     
 }
 .div_1{
-    width: 115px;
-    height: 115px;
+    width: 11.5rem;
+    height: 11.5rem;
     background-color: #66CDAA;
     border: 1px solid #66CDAA;
     border-radius: 20px;
-    margin-right: 60px;
+    margin-right: 6rem;
     
 }
 .div_2{
-    width: 115px;
-    height: 115px;
+    width: 11.5rem;
+    height: 11.5rem;
     background-color: #66CDAA;
     border: 1px solid #66CDAA;
     border-radius: 20px;
     margin:auto;
-    margin-top: -115px;
+    margin-top: -11.5rem;
     
 }
 .div_3{
-    width: 115px;
-    height: 115px;
+    width: 11.5rem;
+    height: 11.5rem;
     background-color: #66CDAA;
     border: 1px solid #66CDAA;
     border-radius: 20px;
-    margin-top: 45px;
+    margin-top: 4.5rem;
     
 }
 .div_4{
-    width: 115px;
-    height: 115px;
+    width: 11.5rem;
+    height: 11.5rem;
     background-color: #191970;
     border: 1px solid #191970;
     border-radius: 20px;
     margin:auto;
-    margin-top: -115px;
+    margin-top: -11.5rem;
     
 }
 .div_5{
-    width: 115px;
-    height: 115px;
+    width: 11.5rem;
+    height: 11.5rem;
     background-color: #191970;
     border: 1px solid #191970;
     border-radius: 20px;
-    margin-top: 45px;
+    margin-top: 4.5rem;
     
 }
 .div_6{
-    width: 115px;
-    height: 115px;
+    width: 11.5rem;
+    height: 11.5rem;
     background-color: #66CDAA;
     border: 1px solid #66CDAA;
     border-radius: 20px;
     margin:auto;
-    margin-top: -115px;
+    margin-top: -11.5rem;
     
 }
 .div_7{
-    width: 115px;
-    height: 115px;
+    width: 11.5rem;
+    height: 11.5rem;
     background-color: #66CDAA;
     border: 1px solid #66CDAA;
     border-radius: 20px;
-    margin-top: 45px;
+    margin-top: 4.5rem;
     
 }
 .div_8{
-    width: 115px;
-    height: 115px;
+    width: 11.5rem;
+    height: 11.5rem;
     background-color: #191970;
     border: 1px solid #191970;
     border-radius: 20px;
     margin:auto;
-    margin-top: -115px;
+    margin-top: -11.5rem;
     
 }
